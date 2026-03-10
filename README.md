@@ -97,7 +97,7 @@ Credit-Card-Transaction-Analysis
 
 Add your dashboard screenshot here.
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](cctr.png)
 📌 Skills Demonstrated
 
 Data Cleaning & Preparation

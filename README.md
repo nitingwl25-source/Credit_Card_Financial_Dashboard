@@ -95,9 +95,8 @@ Credit-Card-Transaction-Analysis
 └── README.md
 📷 Dashboard Preview
 
-Add your dashboard screenshot here.
-
 ![Dashboard Preview](https://github.com/nitingwl25-source/Credit_Card_Financial_Dashboard/blob/main/Cctr.PNG)
+![Dashboard Preview](https://github.com/nitingwl25-source/Credit_Card_Financial_Dashboard/blob/main/cccr.PNG)
 📌 Skills Demonstrated
 
 Data Cleaning & Preparation
